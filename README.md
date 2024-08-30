@@ -11,6 +11,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="50px">
 
+
+
 ![Adriane Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianejanainadidi&show_icons=true&theme=dracula)
 
 
@@ -28,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.sv
