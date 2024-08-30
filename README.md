@@ -5,12 +5,19 @@
 
 ⭐sou estudante na area de programação 
 --------------------------------------------------------------
-📫[Linkdin]()
+📫[Linkdln](https://www.linkedin.com/in/adriane-janaina-didi/)
 
-###minhas tecnologias
+### Minhas tecnologias
 
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="50px"/>
+![]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg")
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width= "50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 <!--
 **adrianejanainadidi/adrianejanainadidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
