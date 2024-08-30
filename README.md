@@ -1,7 +1,16 @@
 ## Seja Bem-Vindo!
+![imagem](https://cdn.ome.lt/TSFG-AF-ap6oFEYPO4Y_sOCKcL8=/770x0/smart/uploads/conteudo/fotos/kindwords.jpg)
+-------------------------------------------------------------
+💗Meu nome e Adriane
 
-<center><h2> Seja Bem-Vindos!!! </h2></center>
+⭐sou estudante na area de programação 
+--------------------------------------------------------------
+📫[Linkdin]()
 
+###minhas tecnologias
+
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="50px"/>
 <!--
 **adrianejanainadidi/adrianejanainadidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
